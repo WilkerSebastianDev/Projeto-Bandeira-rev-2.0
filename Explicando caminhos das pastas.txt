@@ -1,0 +1,13 @@
+Nessa nova revisão do Projeto Bandeira as pastas estão dividos em:
+
+- pasta com nome da pagina vão ter o seu html de mesmo nome.
+
+- pasta REFERENCIAL possui os arquvios que são usados como padrão de todas as paginas.
+
+- pasta JS estão os JavaScript das paginas com seus respectivos nomes + "_script".
+
+- pasta CSS estão os css das paginas com seus respectivos nomes + "_estilo".
+
+- pasta IMG possui as imagens que vão ser utilizados com no final do nome da imagem tem "_NomeDaPagina"
+indicando de qual pagina pertence.
+

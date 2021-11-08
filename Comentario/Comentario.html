@@ -24,6 +24,8 @@
         <script type="text/javascript" src="../REFERENCIAL/JS base/default_script.js"></script>
         <title> Projeto Bandeira/nome</title>
 
+        <link rel="stylesheet" href="../CSS/Comentario_estilo.css">
+
     </head>
 
     <header class="default_header">
@@ -64,10 +66,15 @@
 
            <h3>Escreva as informações e envie seu comentário</h3>
 
-            <form>
+            <form class="formulario">
 
                 <label for="nome">Nome:</label>
-                <input type="text" id="nome" name="nome" placeholder="Digite seu nome*" required>
+                <input type="text" id="nome" name="nome" placeholder="Samuel Esfirra" required>
+
+                <label for="comentario">Comentario:</label>
+                <textarea name="comentario" id="comentario" placeholder="ficou baita o site, com esse novo estilo" required></textarea>
+
+                <input type="submit" id="sub">
 
 
             </form>

@@ -13,3 +13,13 @@
     margin-right: 40%;
 
 }
+
+.links a{
+
+    margin-left: 25px;
+    display: block;
+    text-decoration: none;
+    color: aqua;
+    font-size: 15px;
+
+}

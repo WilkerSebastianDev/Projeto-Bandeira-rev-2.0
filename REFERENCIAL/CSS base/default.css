@@ -80,6 +80,16 @@ header.default_header nav a{
 
 }
 
+@media screen and (max-width: 768px){
+    
+    .header.default_header nav{
+
+        visibility: ;
+
+    }
+
+}
+
 /* main */
 
 main.texto_default h2 {
@@ -114,19 +124,27 @@ footer {
 
 }
 
-footer div.logo_default {
+.logo_default {
 
-    background-color: rgb(109, 8, 8);
+    background-color: rgb(61, 3, 3);
 
 }
 
-footer div.copy_default {
+.logo_default a{
+
+    display: block;
+    margin-right: 40%;
+    margin-left: 40%;
+
+}
+
+.copy_default {
 
     background-color: #000000dc;
 
 }
 
-div.copy_default p{
+.copy_default p{
 
     color: white;
     font-size: 15px;

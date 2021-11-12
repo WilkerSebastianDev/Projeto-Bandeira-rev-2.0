@@ -1,4 +1,5 @@
 function abrefecha(elemento) {
+  
     let ex = document.getElementById(elemento);
   
     if (ex.style.display == "none") {

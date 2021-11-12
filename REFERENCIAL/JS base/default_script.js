@@ -11,4 +11,7 @@ function abrefecha(elemento) {
       ex.style.display = "none";
 
     }
+
   }
+
+  
